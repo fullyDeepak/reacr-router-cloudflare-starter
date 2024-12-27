@@ -1,0 +1,10 @@
+# Ignore artifacts:
+build
+coverage
+node_modules
+package-lock.json
+public
+.gitkeep
+*.ico
+.react-router
+.wrangler
